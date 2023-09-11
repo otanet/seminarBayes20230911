@@ -25,7 +25,7 @@ https://drive.google.com/drive/folders/1mZ9qu8tPBMmDEk7vZy9AvbFXVTBWH3oq?usp=sha
 
 本日13:30からbnleanのお話は英語ですので、30分程度で概要を日本語で説明。
 //
-////
+////    
 9/12(火) 1330- 本村陽一 先生 (産業技術総合研究所)、安松健 先生 (エクサウィザーズ) 
 「実社会ビッグデータからの確率的グラフィカルモデリング」
 
